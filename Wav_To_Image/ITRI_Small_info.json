@@ -1,0 +1,23 @@
+[
+    {
+        "dataset": "ITRI_Small_0db",
+        "normal_data": 38280,
+        "abnormal_data": 39336,
+        "normal_files": 40,
+        "abnormal_files": 40
+    },
+    {
+        "dataset": "ITRI_Small_12db",
+        "normal_data": 38280,
+        "abnormal_data": 39336,
+        "normal_files": 40,
+        "abnormal_files": 40
+    },
+    {
+        "dataset": "ITRI_Small_6db",
+        "normal_data": 38280,
+        "abnormal_data": 39336,
+        "normal_files": 40,
+        "abnormal_files": 40
+    }
+]

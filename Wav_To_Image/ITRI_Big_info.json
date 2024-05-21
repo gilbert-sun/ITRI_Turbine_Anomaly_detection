@@ -1,0 +1,23 @@
+[
+    {
+        "dataset": "ITRI_Big_0db",
+        "normal_data": 60291,
+        "abnormal_data": 9570,
+        "normal_files": 63,
+        "abnormal_files": 10
+    },
+    {
+        "dataset": "ITRI_Big_12db",
+        "normal_data": 60291,
+        "abnormal_data": 9570,
+        "normal_files": 63,
+        "abnormal_files": 10
+    },
+    {
+        "dataset": "ITRI_Big_6db",
+        "normal_data": 60291,
+        "abnormal_data": 9570,
+        "normal_files": 63,
+        "abnormal_files": 10
+    }
+]
