@@ -45,9 +45,9 @@ For `Spectrograms`, we use a vanilla **Convolutional Autoencoder**:
 - Spectrogram *(Threshold 0db, 6db: mean + 1\*std; 12db: mean + 0.5\*std)*
 
 | | 150 | 300 | 500m |
-| Video| :-: | :-: | :-: |
-| Accuracy | 69% | 64% | 61% |
+| :-:| :-: | :-: | :-: |
+| Video Accuracy | 69% | 64% | 61% |
 
 | | 0db | 6db | 12db |
-| Acoustic | :-: | :-: | :-: |
-| Accuracy | 85% | 85% | 95% |
+| :-: | :-: | :-: | :-: |
+| Acous Accuracy | 85% | 85% | 95% |
