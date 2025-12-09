@@ -48,6 +48,6 @@ For `Spectrograms`, we use a vanilla **Convolutional Autoencoder**:
 | :-: | :-: | :-: | :-: |
 | Accuracy | 85% | 85% | 95% |
 
-| | 150 m | 300m | 500m |
+| | 150 | 300 | 500m |
 | :-: | :-: | :-: | :-: |
 | Accuracy | 61% | 58% | 56% |
