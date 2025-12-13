@@ -44,7 +44,11 @@ For `Spectrograms`, we use a vanilla **Convolutional Autoencoder**:
 **ITRI_Big**
 - Spectrogram *(Threshold 0db, 6db: mean + 1\*std; 12db: mean + 0.5\*std)*
 
-| | 150 | 300 | 500m |
+| NonSS| 150 | 300 | 500m |
+| :-:| :-: | :-: | :-: |
+| Video Accuracy | 65% | 61% | 58% |
+
+| SS| 150 | 300 | 500m |
 | :-:| :-: | :-: | :-: |
 | Video Accuracy | 69% | 64% | 61% |
 
